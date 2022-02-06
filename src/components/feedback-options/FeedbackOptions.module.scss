@@ -1,0 +1,15 @@
+.feedbackOptions button {
+  border: 1px solid #555;
+  border-radius: 4px;
+  outline: none;
+  padding: 7px 14px;
+  background-color: #999;
+  cursor: pointer;
+  color: #fff;
+  transition: background 0.3s;
+  margin-right: 10px;
+}
+
+.feedbackOptions button:hover {
+  background-color: rgb(104, 214, 203);
+}
